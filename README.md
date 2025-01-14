@@ -18,7 +18,7 @@ A lightweight pixel multicharacter, Play To Earn dungeon game built using Amazon
 
 # FEATURES
 
-A lightweight pixel multicharacter, Play To Earn dungeon game built using Amazon Q Developer generative AI-powered assistant on the Solana Blockchain. Our motivation is to enable users to own what you earn
+A lightweight pixel multicharacter, Play To Earn dungeon game built using Amazon Q Developer generative AI-powered assistant on the Solana Blockchain. Our motivation is to enable users to own what they earn
 
 **GAME DATA IS STORED ON-CHAIN WHICH MEANS THAT THE USER CAN'T COLLECT TREASURE (SPL TOKENS) PREVIOUSLY COLLECTED**
 
