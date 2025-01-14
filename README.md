@@ -56,8 +56,10 @@ cp .env.example .env
 For this demo we have added our env variables, Feel free to update them.
 
 ## Running the program locally
+Run an Amazon EC2 instance of MacOS 
 
 ```
+git clone https://github.com/GETOfinance/sol-game.git
 cd program
 npm run build // This will build the program
 npm run deploy // This will deploy the program to the local solana network and copy idls generated to the client app.
